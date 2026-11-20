@@ -977,9 +977,9 @@ checksum = "469fb0b9cefa57e3ef31275ee7cacb78f2fdca44e4765491884a2b119d4eb130"
 
 [[package]]
 name = "iref"
-version = "4.4.0"
+version = "5.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ab17c4b66adc2e0c6e38f92b8795d74a9b2a0263456f6499d60c3d424833e45c"
+checksum = "f5a8605cfdbdfceeeb73b7fd7f868c775ad634751aa3bdac742faeb9a83d7ba7"
 dependencies = [
  "pct-str",
  "serde",
